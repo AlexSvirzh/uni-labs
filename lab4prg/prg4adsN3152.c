@@ -149,7 +149,7 @@ void dump(LinkedList *list, const char *filename) {
 }
 
 int info() {
-    printf("Свиржевский Алексей Денисович, гр. N3152\nВариант: 1-10-17-5.\n");
+    printf("Вариант: 1-10-17-5.\n");
     return 0;
 }
 
