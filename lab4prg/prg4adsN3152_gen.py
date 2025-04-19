@@ -71,7 +71,7 @@ def generate_file(filename, count):
     return 0
 
 def info():
-    print("Свиржевский Алексей Денисович, гр. N3152\nВариант: 1-10-17-5")
+    print("Вариант: 1-10-17-5")
     return 0
 
 
